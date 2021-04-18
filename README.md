@@ -1,10 +1,10 @@
 # 05-PyBer_Analysis
 
-### Purpose
+## Purpose
 #This Pyber Analysis is to show the ride share data between the Urban, Suburban and Rural areas based on fares. 
  
 
-### Analysis of Outcomes Based on City and Fares
+## Analysis of Outcomes Based on City and Fares
 
 
 The data does not specifiy that in the Rural setting that the need is not needed or there aren't enough cars in the area to make the trip easier. It is possible that the wait for the car to arrive from the Urban/Suburban setting too long and the user opts for another ride sharing app or they find a different method of transportation.
